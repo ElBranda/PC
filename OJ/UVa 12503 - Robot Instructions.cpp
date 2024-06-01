@@ -26,7 +26,6 @@ int main() {
             
             instruc[i] = pos;
         }
-        
         cout << robotPos << endl;
     }
 
